@@ -6,3 +6,6 @@
 # How to install to Blender
 - open preferences > add-ons > install from disk > select downloaded .py file
 - You can change keybind; it's called "open select mode pie" (I personally prefer mouse5 since it's super efficient)
+
+# Preview
+<img width="483" height="313" alt="image" src="https://github.com/user-attachments/assets/e6eda46b-664b-4e39-95ac-1f1dc4dd71c3" />
